@@ -1,6 +1,6 @@
-package com.example.shop_app
+package com.Pitchcart.shop_app
 
-import io.flutter.embedding.android.FlutterActivity
+import io.Pitchcart.embedding.android.PitchcartActivity
 
-class MainActivity: FlutterActivity() {
+class MainActivity: PitchcartActivity() {
 }
